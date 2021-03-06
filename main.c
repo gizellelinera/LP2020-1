@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(void) {
-*/
+
   float a,b,c, maior;
 	scanf("%f %f %f",&a, &b,&c);
 	
@@ -25,6 +25,8 @@ int main(void) {
 	  }
 	
 	return 0;
+
 }
+*/
 
 
