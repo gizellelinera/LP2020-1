@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 int main(void) {
 
@@ -26,4 +27,4 @@ if((n1==1 && n2==1) || (n1==1 && n3==1 )|| (n2==1 && n3==1)){
 
 
 return 0;
-}
+}*/
