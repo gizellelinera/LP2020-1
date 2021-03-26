@@ -5,25 +5,25 @@ int main() {
   scanf("%i",&num);
     switch (num){
 	 case 0:printf("zero\n");
-    break;
+      break;
     case 1:printf("one\n");
-    break;
+      break;
     case 2:printf("two\n");
-    break;
+      break;
     case 3:printf("three\n");
-    break;
+      break;
     case 4:printf("four\n");
-    break;
+      break;
     case 5:printf("five\n");
-    break;
+      break;
     case 6:printf("six\n");
-    break;
+      break;
     case 7:printf("seven\n");
-    break;
+      break;
     case 8:printf("eight\n");
-    break;
+      break;
     case 9:printf("nine\n");
-    break;
+      break;
     default :printf("");
 }
 return 0;
