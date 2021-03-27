@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
 
 int notas100, notas50, notas20, notas10, notas5, notas2, notas1, notas;
@@ -41,4 +41,4 @@ notas=notas%1;
 
 
   return 0;
-}
+}*/
