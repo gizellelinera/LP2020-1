@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
 
   int num;
@@ -27,4 +27,4 @@ int main() {
     default :printf("");
 }
 return 0;
-  }
+  }*/
