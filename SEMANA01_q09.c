@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
 
 int valor, notas100,notas50,notas20,notas10,notas5,notas2,notas1;
@@ -44,4 +44,4 @@ scanf("%i",&valor);
 							}
 		
 		 return 0;
-}
+}*/

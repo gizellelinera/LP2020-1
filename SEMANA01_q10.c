@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
 
 int n4,n3,n2,n1,n0, num;
@@ -159,4 +159,4 @@ int n4,n3,n2,n1,n0, num;
 
 	return 0;
 	}
-	
+	*/
