@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 int main() {
 
@@ -21,4 +22,4 @@ int n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,impar=0,par=0, num,dig;
 		
 	return 0;
 }
-	
+	*/
