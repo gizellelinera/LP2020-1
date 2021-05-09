@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -37,3 +38,4 @@ do{
 
 return 0;
 }
+*/
